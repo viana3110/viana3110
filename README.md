@@ -1,7 +1,7 @@
 ### Olá! eu sou o Gabriel Viana
 
 
-- 🔭 Hoje eu trabalho com Gestão de logistica
+- 🔭 Hoje eu trabalho com Auxiliar de Administração
 - 🌱 Estudando Python, JavaScript, Banco de Dados
 - 📫 Contrate-me no Email: gabriel.vd2014@gmail.com
 - 😄 Pronouns: ele/dele
